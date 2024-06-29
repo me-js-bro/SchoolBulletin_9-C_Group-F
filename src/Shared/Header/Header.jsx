@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import "./Header.css"
 import { HiX } from "react-icons/hi";
 import { LuBarChart } from "react-icons/lu";
@@ -11,7 +11,8 @@ const Header = () => {
     return (
         <>
             <div className='flex lg:hidden justify-evenly items-center absolute top-5 left-14'>
-                    <img src="https://lh3.googleusercontent.com/knRIplyLueAWo_lsI60T_d6DND8Gzqhyk0NL20KJNiPT3O5Ps7i9d8sOcWDgHWJ1lQiCznvnYF5axGL45XqLAaQ=w16383" alt="logo" className='w-14 mr-4' />
+                    <NavLink to="/">
+                    <img src="https://lh3.googleusercontent.com/knRIplyLueAWo_lsI60T_d6DND8Gzqhyk0NL20KJNiPT3O5Ps7i9d8sOcWDgHWJ1lQiCznvnYF5axGL45XqLAaQ=w16383" alt="logo" className='w-14 mr-4' /> </NavLink>
                     <h3>School Bulletin- 9C Grp F</h3>
                 </div>
             <nav className='flex flex-col items-center w-[100%] pl-10 pr-10 pt-5 pb-20 mb-0 navbar lg:hidden sticky top-0 ease-in-out duration-[0.2s] z-50'>
@@ -41,7 +42,7 @@ const Header = () => {
             </nav>
 
                     {/* nav bar for pc */}
-            <div className='flex justify-between px-10 py-5'>
+                <div className='lg:flex hidden justify-between px-10 py-5 bg-gray-200 sticky top-0 z-50'>
                 <div className='hidden lg:flex justify-evenly items-center'>
                     <img src="https://lh3.googleusercontent.com/knRIplyLueAWo_lsI60T_d6DND8Gzqhyk0NL20KJNiPT3O5Ps7i9d8sOcWDgHWJ1lQiCznvnYF5axGL45XqLAaQ=w16383" alt="logo" className='w-14 mr-4' />
                     <h3>School Bulletin- 9C Grp F</h3>
