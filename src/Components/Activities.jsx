@@ -4,16 +4,16 @@ import { Link } from 'react-router-dom';
 const Activities = () => {
     return (
         <div className='flex flex-col justify-center'>
-            <section className='flex justify-center items-center py-20 bg-[url(https://imgs.search.brave.com/STlpu5UQiLwHLWh6zJe2p3Z5h2gzfVQghMogqOeoS0A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9n/cnVuZ2UtcGVyZm9y/YXRlZC1tZXRhbGxp/Yy10ZXh0dXJlLWJh/Y2tncm91bmRfMTA0/OC0xNDYxNS5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw)] bg-no-repeat lg:bg-cover lg:h-[350px] sm-h-[200px]'>
+            <section className='flex justify-center items-center py-20 bg-[url(https://imgs.search.brave.com/STlpu5UQiLwHLWh6zJe2p3Z5h2gzfVQghMogqOeoS0A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9n/cnVuZ2UtcGVyZm9y/YXRlZC1tZXRhbGxp/Yy10ZXh0dXJlLWJh/Y2tncm91bmRfMTA0/OC0xNDYxNS5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw)] bg-no-repeat lg:bg-cover lg:h-[350px] h-[200px]'>
                 <h1 className='lg:text-[75px] md:text-[60px] font-bold text-white'>Activities</h1>
             </section>
             <div className='flex flex-col justify-evenly items-center my-10'>
 
                     <div className='flex flex-col justify-around items-center w-[1000px] px-5 my-20'>
-                        <img src="https://lh3.googleusercontent.com/7CxCfH3CRtWGRRyDF1Nh86aw8JQapSrDV_ZEVZ4966VULxryLiN2wdRpaQMgn1JeG-73wJW-v8cxoiQom3gPDyDFqfYcgGEkwKn7-qwHFg5h3yV35S0TVYiYpCd5MXBmOg=w1280" alt="pitha" className='mb-5'/>
+                        <img src="https://lh3.googleusercontent.com/7CxCfH3CRtWGRRyDF1Nh86aw8JQapSrDV_ZEVZ4966VULxryLiN2wdRpaQMgn1JeG-73wJW-v8cxoiQom3gPDyDFqfYcgGEkwKn7-qwHFg5h3yV35S0TVYiYpCd5MXBmOg=w1280" alt="pitha" className='mb-5 w-[300px] lg:w-[500px]'/>
                         <h3 className='text-[30px] font-semibold mb-10'>Pitha Utshab</h3>
 
-                        <p className='text-center'>
+                        <p className='text-center w-[300px] lg:w-[700px]'>
                         **Pitha Uthsob: Embracing Tradition and Culinary Delights** <br/> <br/>
 
 Pitha Uthsob, a vibrant festival celebrated in Bengal, is a time-honored tradition that pays homage to the region's rich culinary heritage. Typically observed during the winter months, this festival revolves around the preparation and enjoyment of pithas, traditional Bengali sweets made primarily from rice flour and filled with various ingredients like coconut, jaggery, and molasses.
@@ -40,10 +40,10 @@ In essence, Pitha Uthsob is a celebration of taste, tradition, and togetherness,
 
                         <p>
                         <div className='flex flex-col justify-around items-center w-[1000px] px-5'>
-                        <img src="https://lh3.googleusercontent.com/nW3OpnV3vMANspsJkjaHz8Zj8CBv_ebL3X3O5_TvqolQzU8AhNFHJEbuR28OYTLpT28GjBrIJ3A0Y7vj4vGieJJxRQrbLM1aGEPEcFuqwadPtMbV5ejrlxDyar_i4AcH1w=w1280" alt="pitha" className='mb-5'/>
+                        <img src="https://lh3.googleusercontent.com/nW3OpnV3vMANspsJkjaHz8Zj8CBv_ebL3X3O5_TvqolQzU8AhNFHJEbuR28OYTLpT28GjBrIJ3A0Y7vj4vGieJJxRQrbLM1aGEPEcFuqwadPtMbV5ejrlxDyar_i4AcH1w=w1280" alt="pitha" className='mb-5 w-[300px] lg:w-[500px]'/>
                         <h3 className='text-[30px] font-semibold mb-10'>Annual Sports Day</h3>
 
-                        <p className='text-center'>
+                        <p className='text-center w-[300px] lg:w-[700px]'>
                         **Pitha Uthsob: Embracing Tradition and Culinary Delights** <br/> <br/>
 
 Pitha Uthsob, a vibrant festival celebrated in Bengal, is a time-honored tradition that pays homage to the region's rich culinary heritage. Typically observed during the winter months, this festival revolves around the preparation and enjoyment of pithas, traditional Bengali sweets made primarily from rice flour and filled with various ingredients like coconut, jaggery, and molasses.
@@ -70,10 +70,10 @@ In essence, Pitha Uthsob is a celebration of taste, tradition, and togetherness,
                         </p>
 
                     <div className='flex flex-col justify-around items-center w-[1000px] px-5 my-20'>
-                        <img src="https://lh4.googleusercontent.com/VR3Q6wU_xZgH4sPt2ui1wWPKc9h8EIJTuHF4Ae4JUJ_GQiNS1mX4zM0_sZV-QARK_mcNjgN-DXUDJkeK7zfsKhQ8bKWO-lF9IE88W9IGu3yC4zmezKnjUzCZ5nt0GXRyrg=w1280" alt="pitha" className='mb-5'/>
+                        <img src="https://lh4.googleusercontent.com/VR3Q6wU_xZgH4sPt2ui1wWPKc9h8EIJTuHF4Ae4JUJ_GQiNS1mX4zM0_sZV-QARK_mcNjgN-DXUDJkeK7zfsKhQ8bKWO-lF9IE88W9IGu3yC4zmezKnjUzCZ5nt0GXRyrg=w1280" alt="pitha" className='mb-5 w-[300px] lg:w-[500px]'/>
                         <h3 className='text-[30px] font-semibold mb-10'>Celebrating Nobin Boron</h3>
 
-                        <p className='text-center'>
+                        <p className='text-center w-[300px] lg:w-[700px]'>
                         **Nobin Boron: Celebrating Bengali New Year's Day** <br/> <br/>
 
 

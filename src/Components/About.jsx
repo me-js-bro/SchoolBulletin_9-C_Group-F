@@ -10,7 +10,7 @@ const About = () => {
     return (
         <div>
 
-<section className='flex flex-col relative justify-center items-center py-20 bg-[url(https://imgs.search.brave.com/STlpu5UQiLwHLWh6zJe2p3Z5h2gzfVQghMogqOeoS0A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9n/cnVuZ2UtcGVyZm9y/YXRlZC1tZXRhbGxp/Yy10ZXh0dXJlLWJh/Y2tncm91bmRfMTA0/OC0xNDYxNS5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw)] bg-no-repeat lg:bg-cover lg:h-[350px] sm-h-[200px]'>
+<section className='flex flex-col relative justify-center items-center py-20 bg-[url(https://imgs.search.brave.com/STlpu5UQiLwHLWh6zJe2p3Z5h2gzfVQghMogqOeoS0A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9n/cnVuZ2UtcGVyZm9y/YXRlZC1tZXRhbGxp/Yy10ZXh0dXJlLWJh/Y2tncm91bmRfMTA0/OC0xNDYxNS5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw)] bg-no-repeat lg:bg-cover lg:h-[350px] h-[200px]'>
                 <h1 className='lg:text-[75px] md:text-[60px] font-bold text-white'>About Us</h1>
             </section>
             
@@ -19,8 +19,8 @@ const About = () => {
 <div className='lg:flex justify-center items-center my-10'>
 
 <div className='my-10 mx-10'>
-<div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
-    <img src={img4} alt="pitha" className='w-[400px]'/>
+<div className='flex flex-col justify-around items-center w-[350px] h-[400px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
+    <img src={img4} alt="pitha" className='w-[250px] h-auto'/>
     <h3 className='text-[30px] font-semibold'>
         Sohana Akter Khadija
     </h3>
@@ -28,16 +28,16 @@ const About = () => {
     <p>Web Designer & Team Leader</p>
 </div>
 
-<div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
-    <img src={img3} alt="pitha" className='w-[400px]'/>
+<div className='flex flex-col justify-around items-center w-[350px] h-[400px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
+    <img src={img3} alt="pitha" className='w-[250px] h-auto'/>
     <h3 className='text-[30px] font-semibold'>
         Ayesha Siddika Ramisa
     </h3>
     <p>Marketing Directory</p>
 </div>
 
-<div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
-    <img src={img2} alt="pitha" className='w-[400px]'/>
+<div className='flex flex-col justify-around items-center w-[350px] h-[400px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
+    <img src={img2} alt="pitha" className='w-[250px] h-auto'/>
     <h3 className='text-[30px] font-semibold'>
         Mahabuba Akter Shoity
     </h3>
@@ -46,24 +46,24 @@ const About = () => {
 </div>
 
 <div>
-<div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
-    <img src={img1} alt="pitha" className='w-[400px]'/>
+<div className='flex flex-col justify-around items-center w-[350px] h-[400px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
+    <img src={img1} alt="pitha" className='w-[250px] h-auto'/>
     <h3 className='text-[30px] font-semibold'>
         Samshun Nahar Sayma
     </h3>
     <p>Editor & Content Creator</p>
 </div>
 
-<div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
-    <img src={img5} alt="pitha" className='w-[400px]'/>
+<div className='flex flex-col justify-around items-center w-[350px] h-[400px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
+    <img src={img5} alt="pitha" className='w-[250px] h-auto'/>
     <h3 className='text-[30px] font-semibold'>
         Rouja Anha
     </h3>
     <p>Editor & Content Creator</p>
 </div>
 
-<div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
-    <img src={img6} alt="pitha" className='w-[400px]'/>
+<div className='flex flex-col justify-around items-center w-[350px] h-[400px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
+    <img src={img6} alt="pitha" className='w-[250px] h-auto'/>
     <h3 className='text-[30px] font-semibold'>
         Albina Islam
     </h3>

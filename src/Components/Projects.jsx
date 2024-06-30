@@ -10,11 +10,11 @@ const Projects = () => {
             <div className='lg:flex flex-col justify-center items-center my-10'>
 
         <div className='items-center my-10'>
-        <div className='flex flex-col justify-around items-center mx-5'>
-            <img src="https://lh6.googleusercontent.com/WB9mu7N7NEMnTfRk51hB3g_0iI-LggeATt9r_HDbONWwBzTQTWBWati-SvLdkOurU6qJP9hmIir4IZrV-Jl6qhq8Uo8s7BVLW5kBoyXIGm0iK5SHwVpl91YdV3uAplt5Ug=w1280" alt="pitha" className='w-[700px]'/>
+        <div className='flex flex-col justify-around items-center mx-5 my-10'>
+            <img src="https://lh6.googleusercontent.com/WB9mu7N7NEMnTfRk51hB3g_0iI-LggeATt9r_HDbONWwBzTQTWBWati-SvLdkOurU6qJP9hmIir4IZrV-Jl6qhq8Uo8s7BVLW5kBoyXIGm0iK5SHwVpl91YdV3uAplt5Ug=w1280" alt="pitha" className='w-[350px] lg:w-[500px]'/>
             <h3 className='text-[30px] font-semibold mt-3'>Robotics Project</h3>
 
-            <p className='w-[1000px] mb-[50px]'>
+            <p className='w-[350px] lg:w-[900px] mb-[50px]'>
             **Exploring the World of Robotic Projects**
 
 
@@ -45,11 +45,11 @@ In conclusion, robotic projects are not only about building machines; they repre
             
         </div>
 
-        <div className='flex flex-col justify-around items-center mx-5'>
-            <img src="https://lh4.googleusercontent.com/Wk202JzrWLvKauKAURR7H4aw2jKGOceUaeQU-tixv-SE8GizW2gBrYGykiwUQeHeFIpcIvSlsUxQ04YNr29QGHUltzhP6TJtIhuQ1oBHerm_h_w_brDTA5IKgEtGrU18Rw=w1280" alt="pitha" className='w-[700px]'/>
+        <div className='flex flex-col justify-around items-center mx-5 my-10'>
+            <img src="https://lh4.googleusercontent.com/Wk202JzrWLvKauKAURR7H4aw2jKGOceUaeQU-tixv-SE8GizW2gBrYGykiwUQeHeFIpcIvSlsUxQ04YNr29QGHUltzhP6TJtIhuQ1oBHerm_h_w_brDTA5IKgEtGrU18Rw=w1280" alt="pitha" className='w-[350px] lg:w-[500px]'/>
             <h3 className='text-[30px] font-semibold mt-3'>Tree Plantation </h3>
 
-                <p className='w-[1000px] mb-[50px]'>
+                <p className='w-[350px] lg:w-[900px] mb-[50px]'>
                 **Tree Plantation Projects: Cultivating Green Futures**
 
 
@@ -85,11 +85,11 @@ In conclusion, tree plantation projects are essential for building resilient eco
             
         </div>
 
-        <div className='flex flex-col justify-around items-center mx-5'>
-            <img src="https://imgs.search.brave.com/woBq_cA2B0jj1Sx6SXqRqu8niRNtDkwZBkkRbAVo6Bg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9zb2xhci1wYW5l/bHMtcm9vZi1zb2xh/ci1jZWxsXzk1NDIy/Ni0yMDg3NzEuanBn/P3NpemU9NjI2JmV4/dD1qcGc" alt="pitha" className='w-[700px]'/>
+        <div className='flex flex-col justify-around items-center mx-5 my-10'>
+            <img src="https://imgs.search.brave.com/woBq_cA2B0jj1Sx6SXqRqu8niRNtDkwZBkkRbAVo6Bg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9zb2xhci1wYW5l/bHMtcm9vZi1zb2xh/ci1jZWxsXzk1NDIy/Ni0yMDg3NzEuanBn/P3NpemU9NjI2JmV4/dD1qcGc" alt="pitha" className='w-[350px] lg:w-[500px]'/>
             <h3 className='text-[30px] font-semibold mt-3'>Solar Panel</h3>
 
-            <p className='w-[1000px] mb-[50px]'>
+            <p className='w-[350px] lg:w-[900px] mb-[50px]'>
             **Harnessing Solar Power: The School Solar Panel Project**
 
 
