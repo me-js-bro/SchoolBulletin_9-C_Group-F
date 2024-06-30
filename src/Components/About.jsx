@@ -22,7 +22,7 @@ const About = () => {
 <div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
     <img src={img4} alt="pitha" className='w-[400px]'/>
     <h3 className='text-[30px] font-semibold'>
-        Name ?
+        Sohana Akter Khadija
     </h3>
 
     <p>Web Designer & Team Leader</p>
@@ -30,14 +30,17 @@ const About = () => {
 
 <div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
     <img src={img3} alt="pitha" className='w-[400px]'/>
-    <h3 className='text-[30px] font-semibold'>Name ? 
+    <h3 className='text-[30px] font-semibold'>
+        Ayesha Siddika Ramisa
     </h3>
     <p>Marketing Directory</p>
 </div>
 
 <div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
     <img src={img2} alt="pitha" className='w-[400px]'/>
-    <h3 className='text-[30px] font-semibold'>Name ?</h3>
+    <h3 className='text-[30px] font-semibold'>
+        Mahabuba Akter Shoity
+    </h3>
     <p>Editor & Content Creator</p>
 </div>
 </div>
@@ -45,19 +48,25 @@ const About = () => {
 <div>
 <div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
     <img src={img1} alt="pitha" className='w-[400px]'/>
-    <h3 className='text-[30px] font-semibold'>Name ?</h3>
+    <h3 className='text-[30px] font-semibold'>
+        Samshun Nahar Sayma
+    </h3>
     <p>Editor & Content Creator</p>
 </div>
 
 <div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
     <img src={img5} alt="pitha" className='w-[400px]'/>
-    <h3 className='text-[30px] font-semibold'>Name ?</h3>
+    <h3 className='text-[30px] font-semibold'>
+        Rouja Anha
+    </h3>
     <p>Editor & Content Creator</p>
 </div>
 
 <div className='flex flex-col justify-around items-center w-[500px] h-[450px] border-solid border-2 border-gray-200 rounded-md hover:shadow-2xl transition-shadow mx-5 my-10'>
     <img src={img6} alt="pitha" className='w-[400px]'/>
-    <h3 className='text-[30px] font-semibold'>Name ?</h3>
+    <h3 className='text-[30px] font-semibold'>
+        Albina Islam
+    </h3>
     <p>Editor & Content Creator</p>
 </div>
 </div>
